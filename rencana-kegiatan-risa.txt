@@ -4,3 +4,4 @@ Rencana Kegiatan
 - Belajar JIRA
 - Belajar TestRail
 - Belajar Selenium
+ *belajar dari udemy
