@@ -1,8 +1,8 @@
 Rencana Kegiatan
 - Belajar Git dan GitHub
-  *belajar dari Web Programming UNPAS (youtube)
+  *belajar dari youtube (web programming UNPAS)
 - Belajar JIRA
- *belajar dari youtube
+ *Belajar dari youtube
 - Belajar TestRail
 - Belajar Selenium
 - Belajar tentang admin dan job lainya
