@@ -5,4 +5,4 @@ Rencana Kegiatan
  *Belajar dari youtube
 - Belajar TestRail
 - Belajar Selenium
- *belajar dari udemy
+- Belajar tentang admin dan job lainya
