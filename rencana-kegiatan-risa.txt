@@ -1,5 +1,6 @@
 Rencana Kegiatan
 - Belajar Git dan GitHub
+  *belajar dari youtub
 - Belajar JIRA
 - Belajar TestRail
 - Belajar Selenium
